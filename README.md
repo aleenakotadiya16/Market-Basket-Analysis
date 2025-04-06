@@ -95,7 +95,7 @@ b.	Key Insights:
 •	Soda and whole milk are frequently purchased together (Lift = 1.96), suggesting an opportunity for bundled discounts.
 •	Cross-promotions involving whole milk and other high-lift items can increase sales and customer retention.
 
-**9.	Implementation **
+**9.	Implementation**
 
 1.	Product Placement: Place frequently bought-together items near each other (e.g., yogurt and whole milk).
 2.	Bundling & Discounts: Offer discounts on items often purchased together, like soda and whole milk.

@@ -67,21 +67,30 @@ other vegetables → whole milk = confidence =0.1215
 It means that 12.15% of the time when other vegetables are bought, whole milk is also bought.
 c.	Limitations 
 In our case no rule is on par with the threshold 0.5 some reasons could be :
-Dataset Size Limitation:
+
+**Dataset Size Limitation:**
 •	The dataset may not be large enough to capture stronger associations between items.
+
 •	More transactions would provide better support for frequent itemsets, leading to higher confidence values.
 Sparse Co-occurrence:
 •	Items may be frequently purchased individually but not necessarily together often enough to form strong association rules.
+
 •	This causes confidence to be low since the fraction of transactions containing both items remains small.
+
 Whole Milk as the Dominant Item:
 •	Since whole milk is the most frequently bought item, it appears in many transactions.
+
 •	This can dilute the strength of specific item associations, leading to lower confidence values.
+
 Even though the rules seem weak because of low confidence, it may not always be true.
 
 d.	Lift
 Lift is a key metric in association rule mining because it measures the strength of a relationship between two items beyond what would be expected by chance. Unlike confidence, which only tells how often B appears when A is present, lift accounts for the overall frequency of both items in the dataset
+
 other vegetables → whole milk =lift =1.99 
+
 Since the lift is greater than 1, it shows a positive association between "other vegetables" and "whole milk."
+
 → Specifically, customers who buy "other vegetables" are 1.99 times more likely to also buy "whole milk" compared to random chance
 
 **8.	Best Rules and Insights**

@@ -2,8 +2,10 @@
 
 **1.	Introduction**
 Association Rule Mining (ARM) is a key data mining technique used to identify relationships between frequently co-occurring items in large datasets. It is widely used in market basket analysis, recommendation systems, fraud detection, and healthcare analytics.
+
 **2.**	**Data set information**
 The dataset is from a retail store and contains transaction records for grocery items, comprising a total of 38,765 entries.
+
 **3.**	**Data Dictionary**
 1.	Member_numer : Unique number assign to each customer
 2.	Date : The date of purchase

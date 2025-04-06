@@ -1,5 +1,8 @@
 > **MARKET BASKET ANALYSIS**
 
+![image](https://github.com/user-attachments/assets/94a39f95-8a75-4eb6-bd46-c2aa9c7447be)
+
+
 **1.	Introduction**
 Association Rule Mining (ARM) is a key data mining technique used to identify relationships between frequently co-occurring items in large datasets. It is widely used in market basket analysis, recommendation systems, fraud detection, and healthcare analytics.
 

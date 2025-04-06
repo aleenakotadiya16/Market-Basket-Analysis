@@ -86,13 +86,18 @@ Since the lift is greater than 1, it shows a positive association between "other
 
 a.	Strong Rules (High Lift & Confidence):
 •	yogurt → whole milk (Lift = 2.13, Confidence = 0.1299)
+
 •	rolls/buns → whole milk (Lift = 2.07, Confidence = 0.1263)
+
 •	soda → other vegetables (Lift = 2.12, Confidence = 0.0997)
 
 b.	Key Insights:
 •	Whole milk has the highest support, making it a crucial item in purchasing patterns.
+
 •	Customers who buy other vegetables are more likely to buy whole milk (Lift = 1.99).
+
 •	Soda and whole milk are frequently purchased together (Lift = 1.96), suggesting an opportunity for bundled discounts.
+
 •	Cross-promotions involving whole milk and other high-lift items can increase sales and customer retention.
 
 **9.	Implementation**
